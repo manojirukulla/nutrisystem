@@ -1,5 +1,7 @@
 # PRD addendum
 
+Review feedback: use file/line comments in the stakeholder review PR. See the [review guide](../../ux-designs/ux-nutrisystem-2026-10-07/REVIEW.md).
+
 Companion to the final stakeholder-review PRD. Human acceptance and implementation readiness remain pending. This file preserves downstream context; decision history is in `.memlog.md`.
 
 ## Deferred technical proposals

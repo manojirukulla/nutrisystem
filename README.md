@@ -6,13 +6,15 @@ The PRD and UX mockups are ready for stakeholder review. Stakeholder approval an
 
 ## Start the review
 
+Use the stakeholder review PR in [Pull requests](https://github.com/manojirukulla/nutrisystem/pulls) for feedback. Open **Files changed** to comment on specific files and lines. Keep one question or requested change per thread; discussion, decisions and fixes remain attached to that thread. Follow the [review guide](_bmad-output/planning-artifacts/ux-designs/ux-nutrisystem-2026-10-07/REVIEW.md) for submission and resolution steps. This repository is private, so reviewers need a GitHub account with repository access.
+
 - [Product brief](_bmad-output/planning-artifacts/briefs/brief-nutrisystem-2026-10-07/brief.md): purpose and pilot scope.
 - [PRD](_bmad-output/planning-artifacts/prds/prd-nutrisystem-2026-10-07/prd.md): requirements, user journeys and decisions.
 - [Review guide](_bmad-output/planning-artifacts/ux-designs/ux-nutrisystem-2026-10-07/REVIEW.md): Customer, Provider and SuperAdmin walkthrough.
 - [Visual design](_bmad-output/planning-artifacts/ux-designs/ux-nutrisystem-2026-10-07/DESIGN.md) and [experience specification](_bmad-output/planning-artifacts/ux-designs/ux-nutrisystem-2026-10-07/EXPERIENCE.md).
-- [Offline review ZIP](_bmad-output/stakeholder-review/nutrisystem-review-2026-10-07.zip): documents, 13 HTML pages and image assets.
+- [Optional offline preview ZIP](_bmad-output/stakeholder-review/nutrisystem-review-2026-10-07.zip): documents, 13 HTML pages and image assets. Submit feedback in the PR.
 
-On GitHub, open the ZIP link and download the raw file. Extract it and open `_bmad-output/planning-artifacts/ux-designs/ux-nutrisystem-2026-10-07/mockups/index.html` in your browser. Keep the extracted folders together. GitHub's HTML file view displays source; the downloaded gallery provides the visual walkthrough.
+For a visual walkthrough, download and extract the ZIP (or clone this branch) and open `_bmad-output/planning-artifacts/ux-designs/ux-nutrisystem-2026-10-07/mockups/index.html` in your browser. Keep the folders together. GitHub's HTML file view displays source. For visual feedback, comment on the corresponding HTML file or UX specification line, identify the screen and element, and attach a screenshot when helpful.
 
 All businesses, ratings, prices, reviews and food imagery in the mockups are illustrative. Preview links navigate between examples; they do not authenticate, save data, upload media, publish listings or send messages.
 

@@ -2,7 +2,27 @@
 
 Completed 2026-10-07. The PRD and UX package are ready for stakeholder review. Approval and implementation readiness remain pending.
 
-Open [the mockup gallery](mockups/index.html) in a browser. It works offline when the folder structure and image asset are retained. The gallery connects the Customer, Provider and SuperAdmin examples and includes a phone composition.
+Use the stakeholder review pull request in [GitHub Pull requests](https://github.com/manojirukulla/nutrisystem/pulls) as the shared feedback record. Comments stay attached to the relevant file or line, and each thread records its discussion and outcome.
+
+This repository is private. Reviewers need a GitHub account with repository access before opening the PR. No invitations have been sent.
+
+For the visual walkthrough, extract the [optional offline preview ZIP](../../../stakeholder-review/nutrisystem-review-2026-10-07.zip) and open [the mockup gallery](mockups/index.html) in a browser. Retain the folder structure and image asset. The gallery connects the Customer, Provider and SuperAdmin examples and includes a phone composition. GitHub displays HTML source; it does not render these pages as a running website. Keep feedback in the pull request even when using the ZIP to preview the screens.
+
+## Comment directly in GitHub
+
+1. Open the stakeholder review pull request and select **Files changed**.
+2. Select the PRD, DESIGN.md, EXPERIENCE.md or other relevant changed file. Expand context or the full file when needed. GitHub's [improved Files changed view](https://github.blog/changelog/2026-01-22-improved-pull-request-files-changed-page-on-by-default/) supports comments on any line of a changed file; use that view if the classic view limits available lines. Hover beside the line number and use the **+** control to add a comment.
+3. Keep one actionable item per thread. Include the requirement ID or screen/element, the concern and its impact, and a proposed change or decision needed. Mark whether the comment is a question, requested change or acceptance.
+4. For a visual concern, add a file-level comment on the relevant mockup HTML file or a line comment in the UX specification, and identify the screen, element and viewport. Attach a screenshot when it makes the location clearer. A source line comment identifies markup; it is not a pin on the rendered screen.
+5. If comments are pending in a review, use **Review changes** to submit them. Choose **Comment**, **Approve** or **Request changes** as appropriate and available. Submission publishes the pending comments to the shared conversation.
+
+Use the pull request conversation for feedback spanning multiple files, and link the related threads. Review submission and approval record stakeholder feedback; implementation readiness and policy decisions still follow the authorities recorded in the canonical PRD.
+
+## Track each review outcome
+
+Keep discussion, clarification and the agreed decision in the original thread. When feedback arrives, reconcile the PRD and UX together, commit the corresponding changes to the same review branch, and reply with the change or decision reference. If an item is deferred, link a GitHub issue that records its scope and next decision. Resolve a thread after the requested change is addressed or the reviewer agrees to the recorded outcome; resolution by itself is not product approval.
+
+GitHub retains the comments and thread history, including feedback on lines affected by later edits. This is the review record; no separate spreadsheet or automatic monitoring is assumed.
 
 ## Review sequence
 

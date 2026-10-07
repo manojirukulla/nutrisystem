@@ -2,6 +2,7 @@
 name: NutriSystem
 status: final
 stakeholder_approval: pending
+review_feedback: GitHub stakeholder review PR file/line comments
 implementation_readiness: pending
 created: 2026-10-07
 updated: 2026-10-07

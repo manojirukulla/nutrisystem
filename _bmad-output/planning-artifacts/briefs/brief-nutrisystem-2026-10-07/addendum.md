@@ -1,5 +1,7 @@
 # Brief addendum
 
+Review feedback: use file/line comments in the stakeholder review PR. See the [review guide](../../ux-designs/ux-nutrisystem-2026-10-07/REVIEW.md).
+
 ## Source and status
 
 The [historical discussion input](../../../../docs/discussion-input-2026-10-07.md) and [earlier product chat](../../../../docs/sources/earlier-product-chat-2026-10-07.md) preserve original contributions. The brief is final as a stakeholder-review edition; stakeholder approval and implementation readiness are pending. This addendum retains downstream context, while the memlog records decisions and process changes.
