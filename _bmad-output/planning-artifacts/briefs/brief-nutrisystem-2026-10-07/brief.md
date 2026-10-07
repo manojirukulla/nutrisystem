@@ -5,6 +5,7 @@ created: 2026-10-07
 updated: 2026-10-07
 edition: stakeholder-review
 stakeholder_approval: pending
+review_feedback: GitHub stakeholder review PR file/line comments
 implementation_readiness: pending
 sources:
   - ../../../../docs/discussion-input-2026-10-07.md

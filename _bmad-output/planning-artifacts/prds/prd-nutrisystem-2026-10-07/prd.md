@@ -8,6 +8,7 @@ sources:
   - ../../source-intake-2026-10-07.md
   - ../../../../docs/sources/earlier-product-chat-2026-10-07.md
 stakeholder_approval: pending
+review_feedback: GitHub stakeholder review PR file/line comments
 edition: stakeholder-review
 implementation_readiness: pending
 ---
