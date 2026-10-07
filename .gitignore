@@ -1,0 +1,25 @@
+# Local tooling and caches
+.tools/
+.venv/
+__pycache__/
+*.pyc
+
+# Dependencies and build output
+node_modules/
+.next/
+dist/
+coverage/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+*.log
+
+# BMAD personal configuration (shared config remains tracked)
+_bmad/config.user.toml
+_bmad/custom/config.user.toml

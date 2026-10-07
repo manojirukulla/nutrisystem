@@ -1,0 +1,51 @@
+{
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "screens": [
+    {
+      "page": "onboarding.html",
+      "brokenImages": 0,
+      "mediaAccept": "image/*,video/*",
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "page": "provider.html",
+      "brokenImages": 0,
+      "mediaAccept": null,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "page": "review.html",
+      "brokenImages": 0,
+      "mediaAccept": null,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "page": "admin-listings.html",
+      "brokenImages": 0,
+      "mediaAccept": null,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "page": "admin-moderation.html",
+      "brokenImages": 0,
+      "mediaAccept": null,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "page": "claim.html",
+      "brokenImages": 0,
+      "mediaAccept": null,
+      "scrollWidth": 375,
+      "width": 375
+    }
+  ],
+  "passed": true
+}

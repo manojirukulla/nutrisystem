@@ -1,0 +1,75 @@
+{
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "screens": [
+    {
+      "file": "directory.html",
+      "brokenImages": 0,
+      "clientWidth": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "provider.html",
+      "brokenImages": 0,
+      "clientWidth": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "sign-in.html",
+      "brokenImages": 0,
+      "clientWidth": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "onboarding.html",
+      "brokenImages": 0,
+      "clientWidth": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "admin-listings.html",
+      "brokenImages": 0,
+      "clientWidth": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "admin-discovery.html",
+      "brokenImages": 0,
+      "clientWidth": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "admin-moderation.html",
+      "brokenImages": 0,
+      "clientWidth": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "claim.html",
+      "brokenImages": 0,
+      "clientWidth": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "review.html",
+      "brokenImages": 0,
+      "clientWidth": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "states.html",
+      "brokenImages": 0,
+      "clientWidth": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "settings.html",
+      "brokenImages": 0,
+      "clientWidth": 375,
+      "scrollWidth": 375
+    }
+  ],
+  "passed": true
+}
