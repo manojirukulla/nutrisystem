@@ -2,7 +2,7 @@
 
 Completed 2026-10-07. The PRD and UX package are ready for stakeholder review. Approval and implementation readiness remain pending.
 
-Use the stakeholder review pull request in [GitHub Pull requests](https://github.com/manojirukulla/nutrisystem/pulls) as the shared feedback record. Comments stay attached to the relevant file or line, and each thread records its discussion and outcome.
+Use the stakeholder review pull request in [PR #1](https://github.com/manojirukulla/nutrisystem/pull/1) as the shared feedback record. Comments stay attached to the relevant file or line, and each thread records its discussion and outcome.
 
 This repository is private. Reviewers need a GitHub account with repository access before opening the PR. No invitations have been sent.
 

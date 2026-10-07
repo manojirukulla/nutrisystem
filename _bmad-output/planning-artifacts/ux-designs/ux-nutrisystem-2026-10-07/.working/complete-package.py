@@ -12,7 +12,7 @@ start = f'''# NutriSystem stakeholder review package
 
 Extract this archive first. Open `{ux_relative}/mockups/index.html` in your browser for the offline gallery. Keep all extracted folders together so the links and food image work.
 
-Submit feedback as file/line comments in the stakeholder review PR at https://github.com/manojirukulla/nutrisystem/pulls. This ZIP is an optional visual preview, not the feedback record. Read `{ux_relative}/REVIEW.md` for commenting steps, review sequence and limitations. The canonical PRD is `_bmad-output/planning-artifacts/prds/prd-nutrisystem-2026-10-07/prd.md`.
+Submit feedback as file/line comments in the stakeholder review PR at https://github.com/manojirukulla/nutrisystem/pull/1. This ZIP is an optional visual preview, not the feedback record. Read `{ux_relative}/REVIEW.md` for commenting steps, review sequence and limitations. The canonical PRD is `_bmad-output/planning-artifacts/prds/prd-nutrisystem-2026-10-07/prd.md`.
 
 Completed stakeholder-review editions; approval and implementation readiness remain pending. All sample content is illustrative. Mock actions do not run services. GTM is deferred.
 '''
